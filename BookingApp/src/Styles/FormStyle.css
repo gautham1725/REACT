@@ -1,0 +1,36 @@
+.input-text{
+    width: 20%;
+    padding: 1%;
+    /*padding : 2%;
+     margin-bottom: 2%; */
+}
+
+.input-select{
+    width: 13%;
+    /* padding : 1%; */
+}
+
+.form-div{
+    margin: 10% 20% 20%;
+    text-align: left;
+}
+
+.label{
+    font-family: 'verdana';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 2px;
+    padding-bottom: 1px;
+}
+
+.error{
+    font-size: 15px;
+    color: red;
+    /* font-weight: 500; */
+    font-style: italic;
+}
+
+.login-form{
+    margin-left: 40%;
+    margin-top: 15%;
+}

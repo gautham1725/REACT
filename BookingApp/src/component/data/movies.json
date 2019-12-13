@@ -1,0 +1,61 @@
+[
+    {
+        "mid" :1 ,
+        "movieName" : "avenger" ,
+        "actor" : "captain" ,
+        "languages":"Tamil/English" ,
+        "story":"Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe." ,
+        "rating":4,
+        "image":"https://sm.mashable.com/mashable_in/photo/default/marvel-fans-assemble-the-avengers-have-taken-over-forbes-hig_m22n.jpg"
+    },
+
+    { 
+        "mid" :2 , 
+        "movieName" : "kgf" , 
+        "actor" : "Yash" , 
+        "languages":"Kannada/Tamil/Hindi", 
+        "story": "Rocky, a young man, seeks to acquire power and wealth to fulfil a promise made to his dying mother. Later, he finds not only wealth and power but also something more meaningful, respect.", 
+        "rating":3,
+        "image":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/201903/Yash_2_0.jpeg?lMeZZ.cpZ4X3ZuieP8aQ7iXc.r9uLt8V"
+    },
+
+    { 
+        "mid" :3 , 
+        "movieName" : "bahubali" , 
+        "actor" : "Prabhas" , 
+        "languages":"Kannada/Tamil/Hindi" , 
+        "story":"In the kingdom of Mahishmati, while pursuing his love, Shivudu learns about the conflict ridden past of his family and his legacy. He must now prepare himself to face his newfound arch-enemy." , 
+        "rating":4,
+        "image":"http://analyticsindiamag.com/wp-content/uploads/2017/06/87d5fb24-f905-11e6-ab12-d7625b180dd1.jpg"
+    },
+    { 
+        "mid" :4 , 
+        "movieName" : "nerKonda_parvai" , 
+        "actor" : "Ajith" , 
+        "languages":"Tamil" , 
+        "story":"Adhik and his friends trap three independent women in a murder case. However, Bharath, a retired lawyer, learns of their plight and decides to help the three women." , 
+        "rating":3.5,
+        "image":"https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-93nobol5scksf95emp7kca68g3-20190809114818.Medi.jpeg"
+    },
+
+    { 
+        "mid" :5 , 
+        "movieName" : "lionking" , 
+        "actor" : "Cartoon" , 
+        "languages":"English/Tamil" , 
+        "story":"Simba returns as an adult (Matthew Broderick) to take back his homeland from Scar with the help of his friends Timon (Nathan Lane) and Pumbaa (Ernie Sabella)." , 
+        "rating":4,
+        "image":"https://tv.bt.com/images/the-lion-king-key-art-136440506907402601-191023153333.png"
+    },
+
+    { 
+        "mid" :6 , 
+        "movieName" : "ironman", 
+        "actor" : "robert" , 
+        "languages":"English" , 
+        "story":"A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism.", 
+        "rating":5,
+        "image":"https://onnitacademy.imgix.net/2016/12/IronManKettlebell1-1440x900.jpg"
+    }
+
+]
